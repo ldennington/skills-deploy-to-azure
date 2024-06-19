@@ -8,6 +8,7 @@ permissions:
   contents: read
   deployments: write
   packages: write
+  id-token: write
 
 env:
   IMAGE_REGISTRY_URL: ghcr.io
